@@ -22,4 +22,4 @@ I'm an MS Automotive Engineering student at **Clemson University International C
 CATIA V5 · Siemens NX · SolidWorks · Fusion 360 · Altair HyperWorks · STAR-CCM+ · MATLAB/Simulink · Minitab · Python · C/C++ · Arduino
 
 ## Contact
-[LinkedIn](https://www.linkedin.com/in/ndk022) · dnagara@clemson.edu
+[LinkedIn](https://www.linkedin.com/in/ndk022)
