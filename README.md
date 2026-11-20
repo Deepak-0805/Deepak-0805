@@ -1,6 +1,6 @@
 # Hi, I'm Deepak Kumar Nagarajan 👋
 
-I'm an MS Automotive Engineering student at **Clemson University International Center for Automotive Research (CU-ICAR)**, graduating in May 2027. Before Clemson I worked as an Application and Service Engineer in vehicle testing.
+I'm an MS Automotive Engineering student at **Clemson University International Center for Automotive Research (CU-ICAR)**, graduating in August 2027. Before Clemson I worked as an Application and Service Engineer in vehicle testing.
 
 **Seeking full-time roles or internships starting immediately. Open to relocation anywhere in the US.**
 
